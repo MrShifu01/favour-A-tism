@@ -16,7 +16,7 @@ To install and run the iTunes Search App on your local machine, follow these ste
 1. Clone the GitHub repository:
 
    ```
-   git clone https://github.com/your-username/itunes-search-app.git
+   git clone https://github.com/your-username/favour-A-tism.git
    ```
 
 2. Navigate to the project directory:
@@ -78,8 +78,8 @@ The iTunes Search App can be deployed to various hosting platforms or services. 
 4. Once deployed, provide the appropriate URL or domain to end users so they can access the app.
 
 ## Links
-- [Live Demo](https://your-app-url.com)
-- [GitHub Repository](https://github.com/MrShifu01/itunes-search-api)
+- [Live Demo](https://favour-a-tism-bs4d.vercel.app/)
+- [GitHub Repository](https://github.com/MrShifu01/favour-A-tism)
 
 ```
 
