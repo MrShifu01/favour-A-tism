@@ -78,7 +78,7 @@ The iTunes Search App can be deployed to various hosting platforms or services. 
 4. Once deployed, provide the appropriate URL or domain to end users so they can access the app.
 
 ## Links
-- [Live Demo](https://favour-a-tism-bs4d.vercel.app/)
+<!-- - [Live Demo](https://favour-a-tism-bs4d.vercel.app/) -->
 - [GitHub Repository](https://github.com/MrShifu01/favour-A-tism)
 
 ```
