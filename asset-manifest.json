@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/favour-A-tism/static/css/main.b68703c2.css",
+    "main.js": "/favour-A-tism/static/js/main.bd685e4a.js",
+    "static/js/787.cda612ba.chunk.js": "/favour-A-tism/static/js/787.cda612ba.chunk.js",
+    "static/media/hero-background.png": "/favour-A-tism/static/media/hero-background.6faa0a93e39078892ba2.png",
+    "index.html": "/favour-A-tism/index.html",
+    "main.b68703c2.css.map": "/favour-A-tism/static/css/main.b68703c2.css.map",
+    "main.bd685e4a.js.map": "/favour-A-tism/static/js/main.bd685e4a.js.map",
+    "787.cda612ba.chunk.js.map": "/favour-A-tism/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b68703c2.css",
+    "static/js/main.bd685e4a.js"
+  ]
+}
